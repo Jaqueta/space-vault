@@ -1,0 +1,2 @@
+### Overcharged
+When Stacks reach 100, creates an EMP explosion that deals 100 Damage in a 2 unit radius, reducing Overcharged Stacks by 100. Overcharged decays by 10 every second if an explosion is not triggered.
